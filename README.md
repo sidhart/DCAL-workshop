@@ -1,2 +1,2 @@
-# ML_Utilities
+# DCAL-workshop
 Notebooks for building ML models
