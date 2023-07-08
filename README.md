@@ -1,2 +1,2 @@
 # DCAL-workshop
-Notebooks for building ML models
+Utilities for building ML models
